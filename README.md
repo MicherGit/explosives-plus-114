@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# ExplosivesPlus 
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+An [Explosives Plus](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278908-1-4-5-explosives-pr-v3-9-pre-release-5-1-4-5) port for 1.14+ to fabric.
